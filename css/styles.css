@@ -1,0 +1,12 @@
+body{
+	background: #EEEEEE;
+}
+
+h1{
+
+	text-align: center;
+	background: #FFF;
+	height: 19vh;
+	border:2px solid #000;
+	padding-top:6vh;
+}
